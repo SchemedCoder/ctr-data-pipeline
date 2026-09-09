@@ -1,1 +1,17 @@
+event_id,user_id,ad_id,event_type,timestamp,platform
+1,U001,A101,impression,2025-01-01 10:00:00,mobile
+2,U001,A101,click,2025-01-01 10:00:05,mobile
+3,U002,A102,impression,2025-01-01 10:01:00,web
+4,U003,A101,impression,2025-01-01 10:02:00,mobile
+5,U003,A101,click,2025-01-01 10:02:10,mobile
+6,U004,A103,impression,2025-01-01 10:03:00,web
+7,U005,A102,impression,2025-01-01 10:04:00,mobile
+8,U005,A102,click,2025-01-01 10:04:15,mobile
+9,U006,A103,impression,2025-01-01 10:05:00,web
+10,U007,A101,impression,2025-01-01 10:06:00,mobile
+11,U008,A102,impression,2025-01-01 10:07:00,web
+12,U008,A102,click,2025-01-01 10:07:20,web
+13,U009,A103,impression,2025-01-01 10:08:00,mobile
+14,U010,A101,impression,2025-01-01 10:09:00,web
+15,U010,A101,click,2025-01-01 10:09:12,web
 
